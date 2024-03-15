@@ -42,3 +42,5 @@ Q.idea/sonarlint/securityhotspotstore/8/6/863e0292fd7e9b3e74dafd6cc01f73ba763464
 Q.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,b\b\bbf202272a96de5cd6b6828ffdc55fb3ce45289c
 G
 src/main/kotlin/Jogo.kt,5\f\5f397179de44e27f28644822dff11f27fedc70ff
+K
+src/main/kotlin/InfoJogo.kt,f\3\f3c6e4cfe62c6f92834a91e12c9bfe0112e37349
