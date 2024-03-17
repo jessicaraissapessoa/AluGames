@@ -44,3 +44,5 @@ G
 src/main/kotlin/Jogo.kt,5\f\5f397179de44e27f28644822dff11f27fedc70ff
 K
 src/main/kotlin/InfoJogo.kt,f\3\f3c6e4cfe62c6f92834a91e12c9bfe0112e37349
+O
+src/main/kotlin/InfoApiShark.kt,c\f\cf7f981da781cae20a1be27e38a3bd8b213464cf
