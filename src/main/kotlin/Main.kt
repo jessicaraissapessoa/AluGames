@@ -19,7 +19,7 @@ fun main() {
     println(json)
 
     val gson = Gson()
-    val meuInfoJogo = gson.fromJson(json, InfoJogo::class.java) //(de onde vem, para onde vai)
+    val meuInfoJogo = gson.fromJson(json, InfoJogo::class.java) //(de onde vem (o response.body), para onde vai)
 
     val meuJogo = Jogo(meuInfoJogo.info.title, meuInfoJogo.info.thumb)
     println(meuJogo)
