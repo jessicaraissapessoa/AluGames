@@ -46,3 +46,13 @@ K
 src/main/kotlin/InfoJogo.kt,f\3\f3c6e4cfe62c6f92834a91e12c9bfe0112e37349
 O
 src/main/kotlin/InfoApiShark.kt,c\f\cf7f981da781cae20a1be27e38a3bd8b213464cf
+g
+7src/main/kotlin/br/com/alura/alugames/principal/Main.kt,2\f\2f9ae271f96b0f758c4ec5e17247e5778ff6fee9
+l
+<src/main/kotlin/br/com/alura/alugames/modelo/InfoApiShark.kt,8\3\83584f3739784805363e3689913ddf6aca334b2f
+h
+8src/main/kotlin/br/com/alura/alugames/modelo/InfoJogo.kt,4\4\44f0de5234f899d1e49d9339c306dd8e2e35b194
+d
+4src/main/kotlin/br/com/alura/alugames/modelo/Jogo.kt,4\4\44f1163e8d2173c852127f711023f4146264c7e6
+l
+<src/main/kotlin/br/com/alura/alugames/servicos/ConsumoApi.kt,5\e\5e6761e94ebbdfeb7bdb272809d1701da9ea6f10
