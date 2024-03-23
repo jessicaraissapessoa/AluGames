@@ -1,5 +1,5 @@
 data class Jogo (val titulo : String, val capa : String) { //formata as infos
-    val descricao = ""
+    var descricao : String? = null
     override fun toString(): String {
         return "Meu jogo:\n" +
                 "Título: $titulo\n" +
