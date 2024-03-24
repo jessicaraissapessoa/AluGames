@@ -14,6 +14,7 @@ data class Gamer(var nome : String, var email : String) {
     var idInterno : String? = null
         private  set //privando o set -> podemos pegar (get) externamente, mas não setar (set)
 
+    val jogosBuscados = mutableListOf<Jogo>()
 
     //Construtor secundário:
     constructor(nome: String, email: String, dataNascimento : String, usuario : String) : this (nome, email) {
