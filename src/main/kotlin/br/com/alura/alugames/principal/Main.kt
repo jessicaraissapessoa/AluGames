@@ -59,6 +59,32 @@ fun main() {
     println("Jogos buscados:")
     println(gamer.jogosBuscados)
 
+    println("\nJogos ordenados por título:")
+    gamer.jogosBuscados.sortBy {
+        it?.titulo
+    }
+
+    gamer.jogosBuscados.forEach {
+        println("Título: " + it?.titulo)
+    }
+
+    val jogosFiltrados = gamer.jogosBuscados.filter {
+        it?.titulo?.contains("batman", true) ?: false
+    }
+    println("\nJogos filtrados: ")
+    println(jogosFiltrados)
+
+    println("Deseja excluir algum jogo da lista original? S/N")
+    val opcao = leitura.nextLine()
+    if (opcao.equals("s", true)) {
+        println(gamer.jogosBuscados)
+        println("\nInforme a posição do jogo que deseja excluir:")
+        val posicao = leitura.nextInt()
+        gamer.jogosBuscados.removeAt(posicao)
+    }
+    println("\nLista atualizada:")
+    println(gamer.jogosBuscados)
+
     println("Busca finalizada com sucesso.")
 
 }
