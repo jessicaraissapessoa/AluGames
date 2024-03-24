@@ -1,6 +1,4 @@
 
-G
-src/main/kotlin/Main.kt,d\8\d83ae3847b7d408136086cc5e9e95f5f7c126ed5
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 S
@@ -40,12 +38,6 @@ Q.idea/sonarlint/securityhotspotstore/8/8/88a9255124c95bdc913197c120a8d560edc59c
 Q.idea/sonarlint/securityhotspotstore/8/6/863e0292fd7e9b3e74dafd6cc01f73ba76346482,0\c\0c4799549ebca80c86406fd218445fef27b61acc
 Å
 Q.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,b\b\bbf202272a96de5cd6b6828ffdc55fb3ce45289c
-G
-src/main/kotlin/Jogo.kt,5\f\5f397179de44e27f28644822dff11f27fedc70ff
-K
-src/main/kotlin/InfoJogo.kt,f\3\f3c6e4cfe62c6f92834a91e12c9bfe0112e37349
-O
-src/main/kotlin/InfoApiShark.kt,c\f\cf7f981da781cae20a1be27e38a3bd8b213464cf
 g
 7src/main/kotlin/br/com/alura/alugames/principal/Main.kt,2\f\2f9ae271f96b0f758c4ec5e17247e5778ff6fee9
 l
@@ -56,3 +48,7 @@ d
 4src/main/kotlin/br/com/alura/alugames/modelo/Jogo.kt,4\4\44f1163e8d2173c852127f711023f4146264c7e6
 l
 <src/main/kotlin/br/com/alura/alugames/servicos/ConsumoApi.kt,5\e\5e6761e94ebbdfeb7bdb272809d1701da9ea6f10
+e
+5src/main/kotlin/br/com/alura/alugames/modelo/Gamer.kt,7\f\7ffc3f83ccd1bf5bb56ce2af4027664801424dfe
+m
+=src/main/kotlin/br/com/alura/alugames/principal/TesteGamer.kt,b\4\b46b2b5eda8ec6cec0029e62d0258e1a8097ceac
